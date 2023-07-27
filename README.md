@@ -13,3 +13,4 @@ A fun neon themed page holding cards in a responsive grid.
 
 Ross K
 EdX UConn BootCamp
+Meg Meyers
